@@ -1,6 +1,6 @@
-<h1 align="center">Megathread Pirata</h1>
+# Megathread Pirata
 <div align="center">
-    <a href="https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
+    <a href="https://lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
 </div>
 
 # O que são as Megathreads?
@@ -28,12 +28,6 @@ Nossa comunidade é bem-vinda para colaborar na manutenção e atualização das
 
 Agradecemos a participação de todos na construção e manutenção de nossas megathreads.
 
-## Navegação
+## Vitepress
 
-Para acessar as Megathreads, dê preferência para barra de pesquisa para encontrar o tópico de seu interesse, já que barra de pesquisa é super útil e funcional.
-
-Esperamos que este repositório seja uma fonte valiosa de informações e recursos para nossa comunidade.
-
-## Mkdocs
-
-A Megathread atualmente roda no [mkdocs](https://www.mkdocs.org/) com o tema [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
+A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [FMHY](https://github.com/fmhy/FMHYedit/blob/main/.vitepress/theme/style.css).
