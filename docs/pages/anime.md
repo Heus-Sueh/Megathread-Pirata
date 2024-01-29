@@ -5,6 +5,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- 🚨 Caso algum site não carregue mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
 - 🐐 = Altamente recomendado pela comunidade pirata.
   :::
 
@@ -24,13 +25,8 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animes.vision/)
 
-### ▶️ [Anime Fire](https://animefire.net/)
-
+### ▶️ [Anime Fire](https://animefire.plus/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animefire.net/)
-
-### ▶️ [Animes House](https://animeshouse.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animeshouse.net/)
 
 ### ▶️ [Meus Animes](https://meusanimesbr.com/)
 
@@ -62,7 +58,9 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ---
 
+:::warning ⚠️ Aviso
 ➜ Altamente recomendado o uso de bloqueadores de anúncios nos sites abaixo:
+:::
 
 ### ▶️ [Animes Órion](https://animesorion.com/)
 
