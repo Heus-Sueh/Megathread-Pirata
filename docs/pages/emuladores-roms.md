@@ -229,6 +229,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📑 ➜ ROMs
 
+### 🐐 [Crocdb](https://crocdb.net/)
+
+- ROMs para multiplos sistemas com download direto do site.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
+
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
@@ -239,10 +244,13 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🔗 [CDRomance](https://cdromance.com/)
+### 🔗 [CDRomance](https://cdromance.com/) e [Página de Tickets](https://cdromance.org/)
+:::warning ⚠️ Preste Atenção
 
+Os downloads diretos foram desativados. Agora é necessário copiar o código CDR_TICKET do arquivo desejado e colar na página de tickets.
+  :::   
 - Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdromance.com/)
+- Resultados de segurança da URL: [1](https://www.urlvoid.com/scan/cdromance.com/) / [2](https://www.urlvoid.com/scan/cdromance.org/)
 
 ### 🔗 [Cylum's Sega Master System ROM Collection](https://archive.org/details/cylums-sega-master-system-rom-collection)
 
@@ -309,6 +317,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Enciclopédia para ROMs e ISOs, onde você pode baixar vários jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
+### 🔗 [ROMSPURE.CC](https://romspure.cc/)
+
+- Explore mais de 30.000 roms verificadas, incluindo 3.000 pré-atualizadas e 5.000 traduções de fãs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspure.cc/)
+
 ### 🐐 [RomUlation](https://www.romulation.org/)
 
 - Jogos de console retrô no seu PC. Reviva sua infância agora mesmo.
@@ -323,11 +336,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - ROMs gratuitas para PlayStation Vitas, 3DS, Switch e Wii U.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
-
-### 🔗 [Crocdb](https://crocdb.net/)
-
-- ROMs para multiplos sistemas com download direto do site
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
 
 ## Está buscando Jogos de Computador?
 

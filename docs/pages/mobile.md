@@ -10,8 +10,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## ► **Aplicativos Mobile**
 
-- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Cliente de autenticação de dois fatores (2FA) para Android + Wear OS
-
 - [AdAway](https://github.com/AdAway/AdAway) - AdAway é um bloqueador de anúncios gratuito e de código aberto para Android.
 
 - [Droid-Ify](https://github.com/Droid-ify/client) - Ótimo cliente F-Droid com Material UI.
@@ -22,37 +20,19 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
 
-- [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) - Lawnchair é um aplicativo gratuito e de código aberto para Android. ele porta os recursos do Pixel Launcher e apresenta opções avançadas de personalização.
-
-- [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) - Aplicativo de galeria altamente customizável e com bastante funcionalidades.
-
-- [ReadYou](https://github.com/Ashinch/ReadYou) - Um leitor de RSS Android apresentado no estilo Material You.
-
-- [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) - Gerenciador de arquivos de design de materiais para Android
-
-- [Twire](https://github.com/twireapp/Twire) - Twire é um cliente Twitch alternativo e de código aberto para Android
-
 - [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
 
 - [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
 
 - [Cromite](https://github.com/uazo/cromite) - Fork do Bromite com bloqueio de anúncios e melhorias de privacidade.
 
-- [Hail](https://github.com/aistra0528/Hail) - Aplicativo que congela ou suspende aplicativos usando root ou shizuku.
-
 - [URLChecker](https://github.com/TrianguloY/UrlChecker) - O URLCheck atua como um intermediário incrivelmente personalizável e poderoso ao abrir links url.
-
-- [Simple QR](https://github.com/tomfong/simple-qr) - Simple QR, um aplicativo simples e leve para digitalizar, criar e armazenar códigos QR.
 
 - [Orbot](https://github.com/guardianproject/orbot) - Tor no Android
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
 * [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube)
-
-- [Android Cache Cleaner](https://github.com/bmx666/android-appcachecleaner) - Aplicativo que permite limpar o cache de todos os aplicativos de uma vez.
-
-- [Aliucord](https://github.com/Aliucord/Aliucord) - Uma modificação para o aplicativo Discord do Android.
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
 
@@ -80,18 +60,21 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
 
+- [Animiru](https://github.com/Quickdesh/Animiru) - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
+
 - [Better Anime](https://play.google.com/store/apps/details?id=com.betteranimev3&pli=1) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
 ### | **_Livros_** |
 
-- [Kotatsu](https://kotatsu.app/) - Leitor de mangá
+- [Kotatsu](https://kotatsu.app/) - Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
 
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Leitor de mangá
-  :::warning Aviso
-  Tachiyomi não será mais desenvolvido ativamente. ele continua a funcionar por tempo indeterminado, mas não haverá suporte para ele nem extensões oficiais.
-  :::
+- [Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
+
+- [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - TachiyomiJ2K é um leitor de mangá gratuito e de código aberto para Android 6.0 e superior. Baseado no Tachiyomi original
+
+- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
@@ -210,6 +193,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Playtv Geh](https://t.me/playtvgehjogos) - Canal que oferece o aplicativo de IPTV Playtv Geh, que possibilida ver diversos canais fechados gratuitamente (recomenda-se bloqueador de anúncio).
 
 - [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
+
 - [MCPE APK Releases](https://t.me/mcperelease) - Canal para APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
 
 ## Está buscando Programas para Computador?
