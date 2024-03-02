@@ -2,6 +2,10 @@
 
 Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
+:::info ⚠️ Lembrete rápido
+Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros.
+:::
+
 ## 📑 ➜ Trackers Brasileiros
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)
@@ -18,7 +22,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ### 🧲 [Locadora](https://locadora.cc/)
 
-### 🧲 [Toca Share](https://a.tocashare.com/register)
+### 🧲 [Toca Share](https://tocashare.com/register)
 
 ## 📑 ➜ Trackers Gringo
 
