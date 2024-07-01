@@ -65,6 +65,14 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
+## ► **Burladores de paywall**
+
+- [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
+- [Remove paywall](https://www.removepaywall.com/)
+- [12ft](https://12ft.io/)
+- [Smry](https://www.smry.ai/)
+- [ArchiveIs](https://archive.is/)
+
 ## ► **Scripts de usuário úteis**
 
 - [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto. Necessário para instalar qualquer um dos scripts de usuário abaixo
@@ -92,8 +100,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
 - [Torrent Mirror](https://www.torrentmirror.net/)
-- [UnblockIt](https://unblock_it.gitlab.io/site/)
-- [UnblockSource](https://unblocksource.nl/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
@@ -186,6 +192,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 ## ► Ferramentas de download on-line
 
 - [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
+- [Vidall.mobi](https://vidall.mobi/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
 - [y2mate.com](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
 - [9xbuddy.com](https://9xbuddy.com/) - Youtube / site de download de vários sites
 - [sasrip.cf](https://sasrip.cf/) - Downloader de vídeo / mp3
@@ -210,7 +217,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264). [Versão marítima.](https://github.com/barry-allen07/FB-Mod/releases)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
-- [TheRenamer](http://therenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
@@ -231,7 +237,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 ## ► Diversos
 
-- [Squawkr.io](https://www.squawkr.io/) - Seja notificado quando um filme for lançado. Você também pode definir parâmetros como resolução
 - [subscene.com](https://subscene.com/) - Legendas multilíngues para filmes/séries
 - [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
@@ -276,5 +281,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
+- [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
+- [I2P](https://geti2p.net/en/) - Rede que fornece forte proteção e sigilo para comunicação através da internet. É recomendável usá-lo no lugar do Tor browser.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)

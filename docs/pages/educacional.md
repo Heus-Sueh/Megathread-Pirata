@@ -3,14 +3,17 @@
 A educação é o processo de adquirir conhecimento, habilidades e valores fundamentais para o desenvolvimento pessoal e social.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🐐 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
-## 📑 1 ➜ Streaming
+## 📑 ➜ [Acervo Aslaki](https://drive.aslaki.com/Acervo/) | [Onion](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode assistir aos cursos pelo Telegram
+- Cursos de Arquitetura de Software, Backend, Banco de Dados, Eletrônica, Frontend, Hacking, Linux, Pré-vestibular e Redes.
+
+## 📑 ➜ Streaming
+
+### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos
 
@@ -42,46 +45,28 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[Recode](https://recode.org.br)** - Cursos
 
-## 📑 2 ➜ Downloads diretos
+### ▶️ **[TicEmTrilhas](https://ticemtrilhas.org.br/)** - Cursos
+
+### ▶️ **[ck12](https://www.ck12.org/student/)** - Cursos
+
+### ▶️ **[w3schools](https://w3schools.com/)** - Cursos
+
+## 📑 ➜ Downloads diretos
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
+- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
 
-- Você pode baixar os cursos fornecidos no próprio Telegram.
-
-### 🔗 [Course Drive](https://coursedrive.org)
-
-- Aulas em vídeo da Udemy, Lynda, Packetpub, Pluralsight e mais estão disponíveis para download gratuito.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursedrive.org/)
-
-### 🔗 [CourseDown](https://coursedown.com/)
-
-- Especializada em cursos gratuitos em diversas áreas da Udemy e Skillshare.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursedown.com/)
-
-### 🔗 [GigaCourse](https://gigacourse.com/)
-
-- Baixe os cursos premium de TI, marketing e programação da Udemy gratuitamente, juntamente com uma opção de torrent.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/gigacourse.com/)
+### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
 ### 🔗 [Online Courses](https://online-courses.club/)
 
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/online-courses.club/)
 
-### 🔗 [Udemycourses](https://udemycourses.me/)
-
-- Um dos sites mais completos que oferece aulas online gratuitas da Udemy; não é o mais atualizado, mas os links ainda funcionam.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemycourses.me/)
-
 ### 🔗 [UDEMY 24](https://udemy24.com/)
 
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
-
-### 🔗 [Freetutsdownload](https://freetutsdownload.net/)
-
-- Auxiliar as pessoas a baixar cursos gratuitos em vários aspectos e compartilhar amplamente o conhecimento com todos.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/freetutsdownload.net/)
 
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
@@ -98,28 +83,16 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Baixe gratuitamente os cursos pagos da Udemy para programação, TI etc. O céu é o limite e às vezes oferecem links de torrent.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
-### 🔗 [TutsNode](https://tutsnode.net/)
-
-- Tutoriais educacionais gratuitos em software, design e acadêmicos, entre outros campos.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutsnode.net/)
-
-### 🔗 **[freesoff](https://freesoff.com/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/freesoff.com/)
-
 ### 🔗 **[TutFlix](https://tutflix.org/)** - Cursos / Drives
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutflix.org/)
 
-### 🔗 **[OneHack](https://onehack.us/)** - Cursos
+### 🔗 [coderprog](https://coderprog.com/)
 
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/onehack.us/)
+- Cursos maioria em Inglês, foco em livros para TI.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coderprog.com/)
 
-### 🔗 **[HackNation](https://hacksnation.com/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/hacksnation.com/)
-
-## 📑 3 ➜ Torrents
+## 📑 ➜ Torrents
 
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
 
@@ -145,31 +118,34 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 4 ➜ Grupos/Canais no Telegram
+## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
 
-### 🐐 [Polemic Knowledge](https://t.me/PolemicKnowledge)
-
-- Frequentemente eles deixam aberto de madrugada para entrar, sempre tente acessar esse link por volta da madrugada.
+### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
+- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
 
 ### 🔗 [Polemic Hub](https://t.me/polemic)
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🔗 [Brasil Concursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
+### 🤖 [Search bot](https://t.me/en_SearchBot)
 
-- Materiais diversos para concursos e cursos em streaming. 
+- Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
-### 🔗 [Brasil Concursos📚](https://t.me/Cursos_Filmes_Livros)
+### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
 
-- Materiais diversos para concursos, cursos e livros. Em streaming. 
+- Materiais diversos para concursos e cursos através de streaming. 
+
+### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
+
+- Materiais diversos para concursos, cursos e livros em streaming. 
 
 ### 🔗 [TGDRIVE COURSES](https://t.me/tgdrivecursos)
 
-- Ampla gama de materiais destinados a concursos e cursos. Em streaming. 
+- Ampla gama de materiais destinados a concursos e cursos em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
--  Cursos em streaming.
+-  Cursos diversos por streaming.
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
@@ -179,11 +155,11 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Educa Free](https://t.me/educafree1)
 
-### 🔗 [Acervo Stream](https://t.me/cursogdrive)
-
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
-- Comunidade ativa para compartilhamento de materiais de estudo.
+### 🔗 [ENEM SOLIDÁRIO 2024!⏳📚!](https://t.me/Enemmateriais2023)
+
+- Comunidade ativa para compartilhamento de materiais para o ENEM.
 
 ## Está buscando Livros?
 

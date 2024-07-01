@@ -19,7 +19,7 @@
 
 :::danger ⚠️ Aviso!
 - Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos.
-- Os moderadores e colaboradores fazem o possível para mantê-lo, mas sempre tenham cuidado ao navegar nos mares.
+- Os colaboradores e contribuidores fazem o possível para mantê-lo, mas sempre tenham cuidado ao navegar nos mares.
 :::
 
 ---
@@ -62,8 +62,11 @@
 ### 🧰 [Ferramentas](pages/ferramentas.md)
 - Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
 
-### 🧵 [Trackers Privados](pages/trackers.md)
+### 🧵 [Trackers](pages/trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
+
+### 🧵 [Warez](pages/warez.md)
+- Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
 
 ---
 

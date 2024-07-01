@@ -3,14 +3,17 @@
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
-  :::
+- 🌟 = Altamente recomendado pela comunidade pirata.
+:::
 
-## 📑 1 ➜ Downloads diretos
+## 📑 1 ➜ Programas
 
-### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Cadastre-se
+### 🌟 [Hydra](https://github.com/hydralauncher/hydra) - Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
+
+## 📑 2 ➜ Downloads diretos
+
+### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
 
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
@@ -25,10 +28,25 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Cada versão é sem perdas, sem recodificação de áudio, vídeo ou texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
-### 🔗 [Game-2u](https://game-2u.com/)
+### 🔗 [Abandonware Games](https://abandonwaregames.net/)
 
-- Recurso fantástico para download de videogames, é uma fonte vital para PC e outras plataformas, incluindo ROMs para consoles também.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/game-2u.com/)
+- Arquivo que preserva e disponibiliza downloads de jogos antigos de diversas plataformas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
+### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
+
+- Descubra jogos clássicos gratuitamente junto com uma seção dedicada para emuladores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
+
+### 🔗 [AtopGames](https://atopgames.com/)
+
+- Jogos inalterados e pré-instalados provenientes diretamente de fontes como ElAmigos, DODI, FitGirl, KaosKrew e Xatab.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/atopgames.com/)
+
+### 🌟 [Game Bounty](https://gamebounty.world/)
+
+- Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
 ### 🔗 [Games 4u](https://g4u.to/)
 
@@ -62,7 +80,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - O site de lançamento de cena fornece uma infinidade de hosters gratuitos e fáceis de usar que são facilmente acessíveis. Coma, durma, jogue e repita.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
-### 🐐 [GOG Games](https://gog-games.to/)
+### 🌟 [GOG Games](https://gog-games.to/)
 
 - Cada jogo na biblioteca GOG é gratuito para download de um vasto compêndio de lançamentos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
@@ -102,17 +120,27 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
 
+### 🔗 [Reloaded Steam](https://reloadedsteam.com/)
+
+- Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reloadedsteam.com/)
+
+### 🔗 [SteamGG](https://steamgg.net/)
+
+- Jogos pré-instalados em diversas categorias como tiro, ação, corrida e VR, agilizando o processo de download.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamgg.net/)
+
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 
 - Uma seleção significativa de jogos clássicos que foram otimizados para o Windows moderno. Agora é hora de eles serem soltos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
 
-### 🔗 [Torrminatorr](https://torrminatorr.com/) • Cadastre-se
+### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
 
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos de cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
-## 📑 2 ➜ Jogos de navegador
+## 📑 3 ➜ Jogos de navegador
 
 ### 🌐 [Addicting Games](https://www.addictinggames.com/)
 
@@ -149,7 +177,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Jogos online de seus clássicos retrô favoritos de SNES, NES, SEGA, GBA, GBX e muitos outros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playretrogames.com/)
 
-## 📑 3 ➜ Buscadores
+## 📑 4 ➜ Buscadores
 
 ### 🔍 [Mecanismo de busca programável](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
@@ -166,14 +194,14 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 📑 4 ➜ Torrents
+## 📑 5 ➜ Torrents
 
-### 🐐 [DODI Repacks](https://dodi-repacks.site/)
+### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
 - Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
 
-### 🐐 [FitGirl Repacks](https://fitgirl-repacks.site/)
+### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
 - O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
