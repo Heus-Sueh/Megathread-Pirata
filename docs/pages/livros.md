@@ -5,16 +5,14 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 1 ➜ Downloads diretos
 
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net)
 
-### 🔗 [101 Livros](https://101livros.com/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/101livros.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/)
 
@@ -35,7 +33,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Livros, Manuais e Revistas antigas sobre informática, videogames e diversos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/)
 
-### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
+### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 
 - Livros de engenharia e ciências naturais estão sendo colecionados pela comunidade científica.
 - Aqui está uma [versão divertida do principal Library Genesis](https://libgen.fun/) com ênfase em quadrinhos e mangás.
@@ -62,7 +60,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
 
-### 🐐 [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Necessário Cadastrar-se
+### 🌟 [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Necessário Cadastrar-se
 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
@@ -132,10 +130,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Maior banco de dados de mangás, abrangendo todos os gêneros com uma ampla variedade de temas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabuddy.com/)
 
-### 🌸 [MangaFreak](https://w15.mangafreak.net/)
-- Oferece uma ampla gama de mangás de forma conveniente, incluindo a opção de downloads diretos em massa.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafreak.net/)
-
 ### 🌸 [MangaHub](https://mangahub.io/)
 - Fundado há 5 anos, acumulou uma biblioteca considerável de mangá, manhwa e manhua.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangahub.io/)
@@ -175,14 +169,14 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
-### 🐐 [MangáFire](https://mangafire.to/)
+### 🌟 [MangáFire](https://mangafire.to/)
 
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 
 ## 📑 5 ➜ Buscadores
 
-### 🐐 [Arquivo da Anna](https://pt.annas-archive.org/)
+### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/)
 
 - Library Genesis, Sci-Hub e Z-Library estão entre os sites incluídos neste resiliente mecanismo de pesquisa de bibliotecas de sombra.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/)
@@ -229,7 +223,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
+### 🌟 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
 
 - Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
 - Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
@@ -253,7 +247,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🐐 [ÁudioAZ](https://audioaz.com/)
+### 🌟 [ÁudioAZ](https://audioaz.com/)
 
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audioaz.com/)
@@ -301,8 +295,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
 
-### 🔗 [Gibiteca_online](https://t.me/gibis_mais)
-
 ### 🔗 [Hzd books](https://t.me/HzdBooks)
 
 ### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
@@ -313,8 +305,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [LivroManíacos](https://t.me/livromaniacos)
 
-### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
-
 ### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
 
 ### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
@@ -322,8 +312,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Livros de TI](https://t.me/booksti)
 
 ### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
-
-### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
 
 ### 🔗 [Livros Backup](https://t.me/livros_backup)
 
@@ -335,15 +323,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
 
-### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
-
-### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
-
-### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
-
 ### 🔗 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
 
+### 🔗 [Livros Arte](https://t.me/LivrosArte)
 
+### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
 ## Está buscando cursos e conteúdos educacionais?
@@ -352,8 +336,5 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## Quer saber mais sobre **Livros** em inglês?
 
-➜ Confira essa Megathread do [FMHY - Books / Comics / Manga](https://fmhy.pages.dev/readingpiracyguide/)
+➜ Confira essa Megathread do [FMHY - Books / Comics / Manga](https://fmhy.net/readingpiracyguide)
 
-## Quer saber mais sobre sites de **Mangás**?
-
-➜ Confira essa lista para mais sites para ler Mangá: [https://pastelink.net/mangas](https://pastelink.net/mangas)

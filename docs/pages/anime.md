@@ -2,7 +2,11 @@
 
 Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
 
-:::danger ⚠️ Lembrete rápido
+:::tip ⌛ Não se esqueça marinheiro!
+- Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
+:::
+
+:::danger ⚠️ Aviso
 
 - ✔️ Todos os links foram analisados e aprovados pelos moderadores, mas prossiga com cautela.
 - 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
@@ -31,12 +35,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - Aparentemente ressurgiu das cinzas ou é um clone do antigo Animes House.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeshouse.app/)
-
-### ▶️ [Animeflix](https://animeflix.gg/) / [2](https://animeflix.domains/)
-
-- Site muito bom para streaming gratuito de anime em inglês legendado e dublado.
-- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeflix.gg/)
 
 ### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
 
@@ -68,10 +66,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ### 🔗 [ChauThanh](https://chauthanh.info/)
 - Baixe anime, drama e trilhas sonoras gratuitamente. Obtenha arquivos e links de alta qualidade para mais de 5000 séries.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
-
-### 🐐 [Flugel Anime](https://flugel-anime.com/)
-- Extenso arquivo do nyaa.si. Aproveite downloads muito rápidos, permitindo que você se delicie com suas séries de anime favoritas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/flugel-anime.com/)
 
 ### 🔗 [Hi10 Anime](https://hi10anime.com/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
@@ -112,12 +106,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
-### 🧲 [Erai-raws](https://www.erai-raws.info/)
-
-- Certamente um dos principais grupos de legendas que prioriza a uniformidade acima de tudo.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)
-
-### 🧲 [Nyaa.si](https://nyaa.si/) / [2](https://nyaa.land/)
+### 🌟🧲 [Nyaa.si](https://nyaa.si/) / [2](https://nyaa.land/)
 
 - Site de torrent muito conhecido com foco em anime, dedicado à mídia do Leste Asiático (_japonês, chinês e coreano_).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)

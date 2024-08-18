@@ -4,16 +4,12 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 :::danger ⚠️ Lembrete rápido
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
 :::
-
-## 📑 ➜ [Acervo Aslaki](https://drive.aslaki.com/Acervo/) | [Onion](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
-
-- Cursos de Arquitetura de Software, Backend, Banco de Dados, Eletrônica, Frontend, Hacking, Linux, Pré-vestibular e Redes.
 
 ## 📑 ➜ Streaming
 
-### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
+### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos
 
@@ -53,10 +49,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Downloads diretos
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
-- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
+### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
 
-### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
+### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
 ### 🔗 [Online Courses](https://online-courses.club/)
 
@@ -120,28 +115,24 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
-- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
+### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
-### 🔗 [Polemic Hub](https://t.me/polemic)
+- Backup do canal do Polemic.
 
-- Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🤖 [Search bot](https://t.me/en_SearchBot)
+### 🔗 [Cata Cursos](https://t.me/catacursos)
+
+### 🔗 [Hidra Cursos](https://t.me/+FM6yeYAwrCFlN2Ex)
+
+- Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar materiais também pelo canal associado.
+
+### 🤖 [Search bot](@en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
-
-### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
-
-- Materiais diversos para concursos e cursos através de streaming. 
 
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
 - Materiais diversos para concursos, cursos e livros em streaming. 
-
-### 🔗 [TGDRIVE COURSES](https://t.me/tgdrivecursos)
-
-- Ampla gama de materiais destinados a concursos e cursos em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 

@@ -140,6 +140,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos de cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
+### 🌟 [World of PC](https://worldofpcgames.com/)
+
+- Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
+
 ## 📑 3 ➜ Jogos de navegador
 
 ### 🌐 [Addicting Games](https://www.addictinggames.com/)
@@ -230,6 +235,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
+
+### 🧲 [Nuvem Azul](https://nuvemazul.org/)
+
+- Um site que oferece links diretos via Mediafire, Drive, Mega e Link Magnet, jogos para PC e para celular e com adições semanais de jogos no site.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nuvemazul.org/)
 
 ## Traduções de Jogos
 

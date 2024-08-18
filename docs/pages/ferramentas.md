@@ -91,9 +91,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermoney/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
-- [Filtros avançados RARBG](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adiciona filtros adicionais de qualidade de vida à pesquisa RARBG
-- [RARBG torrent e links magnéticos](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) - Adiciona uma coluna com torrent e links magnéticos nas listas RARBG
-- [IMDB para RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - Adiciona um botão `RARBG` às listas de páginas do IMDB para encontrar o filme/programa em RARBG
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
 
 ## ► Proxies / Desbloqueadores de sites piratas
@@ -113,7 +110,7 @@ Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments
 
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Cliente de torrent de código aberto simples e leve
-* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado
+* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [Guia de plugins](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -282,6 +279,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
-- [I2P](https://geti2p.net/en/) - Rede que fornece forte proteção e sigilo para comunicação através da internet. É recomendável usá-lo no lugar do Tor browser.
+- [I2P](https://geti2p.net/en/) - Rede que fornece forte proteção e sigilo para comunicação através da internet. É recomendável usá-lo no lugar do protocolo Tor.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
